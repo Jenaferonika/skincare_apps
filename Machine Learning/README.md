@@ -57,7 +57,7 @@ A system that scans skincare product ingredients to provide users with detailed 
     ```
 
 ## 3. Data Splitting
-* Dataset contains more than 5000 rows of data, covering various skincare ingredients. The data is split into training (80%) and test (20%) sets for model development.
+* Dataset contains 2400 rows of data, covering various skincare ingredients. The data is split into training (80%) and test (20%) sets for model development.
 
 ## 4. Model Training and Debugging
 * **Model selection**: The system uses a supervised learning classification model to analyze ingredients and predict their functions, ratings, and benefits.
