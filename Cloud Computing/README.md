@@ -106,8 +106,7 @@
         "For Mature Skin",
         "For Sensitive Skin"
         ]
-  }
-
+  
   
   ```
 
