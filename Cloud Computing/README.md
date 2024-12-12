@@ -76,6 +76,7 @@
   }
   ```
 
+
   ## Model-Deployed-API
 
   ### 4. **Get Authenticated Profile**
