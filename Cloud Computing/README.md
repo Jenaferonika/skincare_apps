@@ -13,7 +13,7 @@
   ```json
   {
     "name": "string",
-    "email": "string", // Must be unique
+    "email": "string", 
     "password": "string"
   }
   ```
