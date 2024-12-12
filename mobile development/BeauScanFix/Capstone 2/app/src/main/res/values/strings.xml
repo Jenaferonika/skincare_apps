@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">BeauScan</string>
+    <string name="login">Login\n</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="button_log_in">Log in</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="button_register">Register</string>
+    <string name="hi_welcome">Hi, Welcome!</string>
+    <string name="field_empty">"Field ini tidak boleh kosong "</string>
+    <string name="have_account">Already have an account? Login here</string>
+    <string name="dont_have_account">Don\'t have an account? Register here</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="switch_mode">Enable or disable dark mode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drop_ingredients">Drop your Ingredients here</string>
+    <string name="gallery">Gallery</string>
+    <string name="Camera">Camera</string>
+    <string name="btn_start_scan">Analyze</string>
+    <string name="permission_request_granted">Permintaan izin diberikan</string>
+    <string name="permission_request_denied">Permintaan izin ditolak</string>
+    <string name="failed_show_camera_preview">Gagal membuka kamera</string>
+    <string name="failed_take_picture">Gagal menganmbil gambar</string>
+    <string name="name_ingridient">Ingredient :</string>
+    <string name="description">Description :</string>
+    <string name="no_ingredients">No ingredients found</string>
+    <string name="category">Category</string>
+    <string name="name_app">BeauScan</string>
+</resources>
