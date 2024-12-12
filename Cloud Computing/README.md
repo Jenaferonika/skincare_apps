@@ -105,7 +105,8 @@
     "predicted_skincare_categories": [
         "For Mature Skin",
         "For Sensitive Skin"
-  ]}
+        ]
+  }
 
   
   ```
