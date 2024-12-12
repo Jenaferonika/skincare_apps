@@ -5,6 +5,7 @@
 ###
 
 
+
 <div align="center" style="font-size:16px;font-weight:800">
 BeauScan - Automatic Ingredient Scanner for Skincare Products
 </div>
@@ -37,7 +38,7 @@ Discover the future of laundry services with **Smart Rinse**, a product designed
 
 | Learning Path      | Repository  Link                                                         |
 |:-------------------|:-------------------------------------------------------------------------|
-| Machine Learning   | Machine Learning                            | **[Follow Link](https://github.com/Jenaferonika/skincare_apps/tree/main/Machine%20Learning)**          |
+| Machine Learning   | **[Follow Link](https://github.com/Jenaferonika/skincare_apps/tree/main/Machine%20Learning)**          |
 | Cloud Computing    | **[Follow Link](https://github.com/Jenaferonika/skincare_apps/tree/main/Cloud%20Computing)**         |
 | Mobile Development | **[Follow Link](https://github.com/Jenaferonika/skincare_apps/tree/main/mobile%20development)**        |
 
