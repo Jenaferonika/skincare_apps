@@ -1,0 +1,7 @@
+Flask
+tensorflow
+pandas
+pillow
+pytesseract
+scikit-learn
+gunicorn
