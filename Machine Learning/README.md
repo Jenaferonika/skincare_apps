@@ -16,9 +16,9 @@ A system that scans skincare product ingredients to provide users with detailed 
     * A dataset containing detailed product information used to create a backend database for skincare products.
 
 * **Data preprocessing**:
-* Gathering Data: Skincare ingredient data is collected from CSV files.
-* Data Cleaning: Irrelevant data is removed using regex, text is converted to lowercase, and special characters are eliminated.
-* Tokenization & Padding: Text is tokenized using TensorFlow's Tokenizer, and padding is applied to standardize input text length.
+    * Gathering Data: Skincare ingredient data is collected from CSV files.
+    * Data Cleaning: Irrelevant data is removed using regex, text is converted to lowercase, and special characters are eliminated.
+    * Tokenization & Padding: Text is tokenized using TensorFlow's Tokenizer, and padding is applied to standardize input text length.
   * Convert all text to lowercase:
     ```python
     df['ingredient_name'] = df['ingredient_name'].apply(lambda x: x.lower())
@@ -81,8 +81,8 @@ A system that scans skincare product ingredients to provide users with detailed 
 * Training Visualization: Training progress is visualized using loss and accuracy curves plotted with matplotlib.
 
 * **Result**:
-  - `Loss: 0.4%`
-  - `Accuracy: 97%`
+  - `Loss: 0.7274`
+  - `Accuracy: 75.98%`
 * **Debugging**: To handle overfitting, data augmentation and K-fold cross-validation were implemented. While high accuracy is achieved, some ingredients with ambiguous labels may result in misclassifications.
 
 ## 6. Deployment
