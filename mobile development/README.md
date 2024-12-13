@@ -63,3 +63,9 @@ Features a dark mode to provide a comfortable user experience in low-light condi
 - **JUnit**: A testing framework for unit tests in Java and Kotlin.
 - **Espresso**: A UI testing framework for Android applications.
 
+
+- **Email**: 
+Arnora Mardianysah : [ardora.334@gmail.com](mailto:ardora.334@gmail.com)
+Jena Feronika : [jenaferonika6@gmail.com](mailto:jenaferonika6@gmail.com)
+
+We would love to hear from you!
