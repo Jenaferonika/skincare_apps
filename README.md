@@ -1,8 +1,6 @@
-<div align="center"> 
-  <img height="150" src="https://drive.google.com/uc?id=1bVFda55YrLTxOn95R-To8lIAAQctQbng" alt="BeauScan Logo"/> 
-</div>
 
-<div align="center" style="font-size:16px;font-weight:800">
+
+<div align="center" style="font-size:18px;font-weight:800">
 <h1> BeauScan </h1>
 <h2> Automatic Ingredient Scanner for Skincare Products </h2>
 </div>
