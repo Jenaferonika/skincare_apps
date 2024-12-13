@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1Em6lPmu0pLMh822BD4NdzzI5hFv_nLYY/view?usp=sharing"  />
+<div align="center"> 
+  <img height="150" src="https://drive.google.com/file/d/1Em6lPmu0pLMh822BD4NdzzI5hFv_nLYY/view?usp=sharing" alt="BeauScan Logo"/> 
 </div>
 
 ###
