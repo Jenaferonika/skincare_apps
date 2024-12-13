@@ -1,5 +1,6 @@
 <div align="center" style="font-size:16px;font-weight:800">
-<h2> BeauScan - Automatic Ingredient Scanner for Skincare Products </h2>
+<h1> BeauScan </h1>
+<h2> Automatic Ingredient Scanner for Skincare Products </h2>
 </div>
 
 
