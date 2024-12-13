@@ -68,8 +68,8 @@ Features a dark mode to provide a comfortable user experience in low-light condi
 
 If you have any questions or suggestions, feel free to reach out to us:
 
-- **Email**: 
-Arnora Mardianysah : [ardora.334@gmail.com](mailto:ardora.334@gmail.com)
-Jena Feronika : [jenaferonika6@gmail.com](mailto:jenaferonika6@gmail.com)
+- **Arnora Mardianysah**: [ardora.334@gmail.com](mailto:ardora.334@gmail.com)
+- **Jena Feronika**: [jenaferonika6@gmail.com](mailto:jenaferonika6@gmail.com)
 
 We would love to hear from you!
+
