@@ -1,11 +1,8 @@
 <div align="center" style="font-size:16px;font-weight:800">
-BeauScan - Automatic Ingredient Scanner for Skincare Products
+<h3>**BeauScan - Automatic Ingredient Scanner for Skincare Products**</h3>
 </div>
 
-<div>
 
-  
-</div>
 
 The **BeauScan** app is a platform designed to help users scan and analyse ingredients in skincare products. The app uses Machine Learning (ML)-based scanning technology to identify the function, rating, and predict the suitable skin type of the ingredients in skincare products. Users can scan the product label using a smartphone camera, and the app will generate information related to the ingredients contained within.
 
