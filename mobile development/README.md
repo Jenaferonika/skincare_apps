@@ -5,27 +5,27 @@ Welcome to the BeauScan Mobile-Development-Path repository! This repository show
 
 ## Key Features and Functionality
 
-##### 1. Welcome Page
+### 1. Welcome Page
 The first page users see upon opening the application, featuring branding and identity of the app with an attractive and professional design.
 
-##### 2. Login and Register
+### 2. Login and Register
 - **Login**: Allows users who already have an account to log in easily and quickly.
 - **Register**: Simple and secure registration process for new users.
 
-##### 3. Home Page
+### 3. Home Page
 After logging in, users enter the Home Page, which is the main page for analyzing ingredients in skincare products. Key features include:
 - **Image From Gallery**: Users can select images from their gallery.
 - **Image From Camera**: Users can take pictures directly with the camera.
 - **Crop Image**: Allows users to crop images to focus on the skincare label.
 - **Analyze Ingredients**: After selecting an image, the application will perform an analysis to detect skincare ingredients.
 
-##### 4. Result Page
+### 4. Result Page
 The Result Page displays the Ingredients Information, showing the analysis results, including a list of ingredients, their functions, and ratings.
 
-##### 5. Profile Page
+### 5. Profile Page
 Displays user account data, providing an overview of user information.
 
-##### 6. Settings Page
+### 6. Settings Page
 Features a dark mode to provide a comfortable user experience in low-light conditions.
 
 ## Technologies Used
